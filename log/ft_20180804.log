@@ -1,0 +1,73 @@
+2018-08-04 22:59:40,589 [open_context_base.py] _socket_reconnect_and_wait_ready:201: Start connecting: host=127.0.0.1; port=11111;
+2018-08-04 22:59:40,589 [open_context_base.py] _socket_reconnect_and_wait_ready:204: try connecting: host=127.0.0.1; port=11111;
+2018-08-04 22:59:45,601 [open_context_base.py] on_connect_timeout:315: Connect timeout: conn_id=1
+2018-08-04 22:59:45,611 [open_context_base.py] _wait_reconnect:373: Wait reconnect in 8 seconds
+2018-08-04 23:01:05,138 [open_context_base.py] _socket_reconnect_and_wait_ready:201: Start connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:01:05,138 [open_context_base.py] _socket_reconnect_and_wait_ready:204: try connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:01:05,180 [open_context_base.py] _handle_init_connect:362: sync socket init_connect ok: {'server_version': 101, 'login_user_id': 7220508, 'conn_id': 2982303059931749895, 'conn_key': '00DECA03D54563BE', 'keep_alive_interval': 10}
+2018-08-04 23:01:47,466 [open_context_base.py] _socket_reconnect_and_wait_ready:201: Start connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:01:47,467 [open_context_base.py] _socket_reconnect_and_wait_ready:204: try connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:01:47,508 [open_context_base.py] _handle_init_connect:362: sync socket init_connect ok: {'server_version': 101, 'login_user_id': 7220508, 'conn_id': 16240902562611028932, 'conn_key': 'C863292CD54763D6', 'keep_alive_interval': 10}
+2018-08-04 23:02:16,159 [open_context_base.py] _socket_reconnect_and_wait_ready:201: Start connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:02:16,159 [open_context_base.py] _socket_reconnect_and_wait_ready:204: try connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:02:16,201 [open_context_base.py] _handle_init_connect:362: sync socket init_connect ok: {'server_version': 101, 'login_user_id': 7220508, 'conn_id': 5936668814669671044, 'conn_key': '856A8647D5496349', 'keep_alive_interval': 10}
+2018-08-04 23:02:26,185 [open_context_base.py] _socket_reconnect_and_wait_ready:201: Start connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:02:26,185 [open_context_base.py] _socket_reconnect_and_wait_ready:204: try connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:02:26,228 [open_context_base.py] _handle_init_connect:362: sync socket init_connect ok: {'server_version': 101, 'login_user_id': 7220508, 'conn_id': 17393828465883882087, 'conn_key': '61221651D54B63E9', 'keep_alive_interval': 10}
+2018-08-04 23:02:38,339 [open_context_base.py] _socket_reconnect_and_wait_ready:201: Start connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:02:38,339 [open_context_base.py] _socket_reconnect_and_wait_ready:204: try connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:02:38,380 [open_context_base.py] _handle_init_connect:362: sync socket init_connect ok: {'server_version': 101, 'login_user_id': 7220508, 'conn_id': 12926259834750060706, 'conn_key': 'A648AD5CD54D63DB', 'keep_alive_interval': 10}
+2018-08-04 23:03:29,765 [open_context_base.py] _socket_reconnect_and_wait_ready:201: Start connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:03:29,766 [open_context_base.py] _socket_reconnect_and_wait_ready:204: try connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:03:29,809 [open_context_base.py] _handle_init_connect:362: sync socket init_connect ok: {'server_version': 101, 'login_user_id': 7220508, 'conn_id': 9755727896927305204, 'conn_key': 'F37DB88DD54F633E', 'keep_alive_interval': 10}
+2018-08-04 23:03:43,053 [open_context_base.py] _socket_reconnect_and_wait_ready:201: Start connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:03:43,053 [open_context_base.py] _socket_reconnect_and_wait_ready:204: try connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:03:43,096 [open_context_base.py] _handle_init_connect:362: sync socket init_connect ok: {'server_version': 101, 'login_user_id': 7220508, 'conn_id': 2622028286408312338, 'conn_key': '16C6649AD551630D', 'keep_alive_interval': 10}
+2018-08-04 23:04:13,316 [open_context_base.py] _socket_reconnect_and_wait_ready:201: Start connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:04:13,316 [open_context_base.py] _socket_reconnect_and_wait_ready:204: try connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:04:13,356 [open_context_base.py] _handle_init_connect:362: sync socket init_connect ok: {'server_version': 101, 'login_user_id': 7220508, 'conn_id': 460302664777907525, 'conn_key': '46BD40B7D5536347', 'keep_alive_interval': 10}
+2018-08-04 23:05:10,463 [open_context_base.py] _socket_reconnect_and_wait_ready:201: Start connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:05:10,463 [open_context_base.py] _socket_reconnect_and_wait_ready:204: try connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:05:10,505 [open_context_base.py] _handle_init_connect:362: sync socket init_connect ok: {'server_version': 101, 'login_user_id': 7220508, 'conn_id': 12926268633277091256, 'conn_key': 'B24DC1EDD555634D', 'keep_alive_interval': 10}
+2018-08-04 23:05:33,688 [open_context_base.py] _socket_reconnect_and_wait_ready:201: Start connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:05:33,688 [open_context_base.py] _socket_reconnect_and_wait_ready:204: try connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:05:33,730 [open_context_base.py] _handle_init_connect:362: sync socket init_connect ok: {'server_version': 101, 'login_user_id': 7220508, 'conn_id': 4855840091633291977, 'conn_key': 'C412E703D669638B', 'keep_alive_interval': 10}
+2018-08-04 23:06:45,254 [open_context_base.py] _socket_reconnect_and_wait_ready:201: Start connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:06:45,254 [open_context_base.py] _socket_reconnect_and_wait_ready:204: try connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:06:45,298 [open_context_base.py] _handle_init_connect:362: sync socket init_connect ok: {'server_version': 101, 'login_user_id': 7220508, 'conn_id': 2261768906436210113, 'conn_key': 'C36D2748D66B635A', 'keep_alive_interval': 10}
+2018-08-04 23:25:43,793 [open_context_base.py] _socket_reconnect_and_wait_ready:201: Start connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:25:43,794 [open_context_base.py] _socket_reconnect_and_wait_ready:204: try connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:25:43,836 [open_context_base.py] _handle_init_connect:362: sync socket init_connect ok: {'server_version': 101, 'login_user_id': 7220508, 'conn_id': 676583219678875684, 'conn_key': '2110F385DAB56325', 'keep_alive_interval': 10}
+2018-08-04 23:26:15,163 [open_context_base.py] _socket_reconnect_and_wait_ready:201: Start connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:26:15,163 [open_context_base.py] _socket_reconnect_and_wait_ready:204: try connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:26:15,205 [open_context_base.py] _handle_init_connect:362: sync socket init_connect ok: {'server_version': 101, 'login_user_id': 7220508, 'conn_id': 6729423318389985976, 'conn_key': 'B492DDA3DAB763CB', 'keep_alive_interval': 10}
+2018-08-04 23:27:10,463 [open_context_base.py] _socket_reconnect_and_wait_ready:201: Start connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:27:10,464 [open_context_base.py] _socket_reconnect_and_wait_ready:204: try connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:27:10,506 [open_context_base.py] _handle_init_connect:362: sync socket init_connect ok: {'server_version': 101, 'login_user_id': 7220508, 'conn_id': 10836708378459936855, 'conn_key': '59989AD8DAB96345', 'keep_alive_interval': 10}
+2018-08-04 23:27:31,191 [open_context_base.py] _socket_reconnect_and_wait_ready:201: Start connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:27:31,191 [open_context_base.py] _socket_reconnect_and_wait_ready:204: try connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:27:31,233 [open_context_base.py] _handle_init_connect:362: sync socket init_connect ok: {'server_version': 101, 'login_user_id': 7220508, 'conn_id': 1397165758846303185, 'conn_key': 'D87B5FECDABB6389', 'keep_alive_interval': 10}
+2018-08-04 23:27:51,636 [open_context_base.py] _socket_reconnect_and_wait_ready:201: Start connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:27:51,637 [open_context_base.py] _socket_reconnect_and_wait_ready:204: try connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:27:51,679 [open_context_base.py] _handle_init_connect:362: sync socket init_connect ok: {'server_version': 101, 'login_user_id': 7220508, 'conn_id': 2045686304538013621, 'conn_key': 'B2AFDEFFDABD63AE', 'keep_alive_interval': 10}
+2018-08-04 23:29:16,800 [open_context_base.py] _socket_reconnect_and_wait_ready:201: Start connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:29:16,801 [open_context_base.py] _socket_reconnect_and_wait_ready:204: try connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:29:16,844 [open_context_base.py] _handle_init_connect:362: sync socket init_connect ok: {'server_version': 101, 'login_user_id': 7220508, 'conn_id': 2333918881075608310, 'conn_key': 'F2BA1651DBBF6350', 'keep_alive_interval': 10}
+2018-08-04 23:29:56,026 [open_context_base.py] _socket_reconnect_and_wait_ready:201: Start connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:29:56,026 [open_context_base.py] _socket_reconnect_and_wait_ready:204: try connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:29:56,069 [open_context_base.py] _handle_init_connect:362: sync socket init_connect ok: {'server_version': 101, 'login_user_id': 7220508, 'conn_id': 4639764089940149752, 'conn_key': 'F5057F76DBC16336', 'keep_alive_interval': 10}
+2018-08-04 23:32:02,398 [open_context_base.py] _socket_reconnect_and_wait_ready:201: Start connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:32:02,398 [open_context_base.py] _socket_reconnect_and_wait_ready:204: try connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:32:02,441 [open_context_base.py] _handle_init_connect:362: sync socket init_connect ok: {'server_version': 101, 'login_user_id': 7220508, 'conn_id': 1325136756449991033, 'conn_key': '70D903EFDBD56332', 'keep_alive_interval': 10}
+2018-08-04 23:32:18,999 [open_context_base.py] _socket_reconnect_and_wait_ready:201: Start connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:32:18,999 [open_context_base.py] _socket_reconnect_and_wait_ready:204: try connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:32:19,041 [open_context_base.py] _handle_init_connect:362: sync socket init_connect ok: {'server_version': 101, 'login_user_id': 7220508, 'conn_id': 11413202121048768129, 'conn_key': '88BED8FEDBD76349', 'keep_alive_interval': 10}
+2018-08-04 23:35:20,794 [open_context_base.py] _socket_reconnect_and_wait_ready:201: Start connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:35:20,795 [open_context_base.py] _socket_reconnect_and_wait_ready:204: try connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:35:20,836 [open_context_base.py] _handle_init_connect:362: sync socket init_connect ok: {'server_version': 101, 'login_user_id': 7220508, 'conn_id': 12494088024758957763, 'conn_key': 'C43638ACDCEB6314', 'keep_alive_interval': 10}
+2018-08-04 23:37:17,447 [open_context_base.py] _socket_reconnect_and_wait_ready:201: Start connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:37:17,447 [open_context_base.py] _socket_reconnect_and_wait_ready:204: try connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:37:17,489 [open_context_base.py] _handle_init_connect:362: sync socket init_connect ok: {'server_version': 101, 'login_user_id': 7220508, 'conn_id': 4928042851666234560, 'conn_key': 'C60C781BDDED6366', 'keep_alive_interval': 10}
+2018-08-04 23:37:35,070 [open_context_base.py] _socket_reconnect_and_wait_ready:201: Start connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:37:35,070 [open_context_base.py] _socket_reconnect_and_wait_ready:204: try connecting: host=127.0.0.1; port=11111;
+2018-08-04 23:37:35,111 [open_context_base.py] _handle_init_connect:362: sync socket init_connect ok: {'server_version': 101, 'login_user_id': 7220508, 'conn_id': 7738291218450642552, 'conn_key': '7976462CDDEF6330', 'keep_alive_interval': 10}
